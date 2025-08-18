@@ -1,0 +1,47 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E225" />
+          <option value="E111" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N812" />
+          <option value="N813" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bytes.visibility_of" />
+          <option value="bytes.element_to_be_clickable" />
+          <option value="tests.test_search.TestSearch.*" />
+          <option value="tests.test_Register.TestRegister.driver" />
+          <option value="tests.EmployeeInfoForm.TestLogin.driver" />
+          <option value="tests.EmployeeInfoForm.TestEmployee.driver" />
+          <option value="tests.EmployeeInfoForm.TestEmployeeInfoForm.driver" />
+          <option value="tests.EmployeeInfoForm.Navigation.driver" />
+          <option value="tests.test_Navigation.Navigation.driver" />
+          <option value="tests.test_Navigation.TestNavigation.driver" />
+          <option value="tests.EmployeeInfoForm.TestNavigation.driver" />
+          <option value="tests.test_EmployeeInfoForm.TestLogin.driver" />
+          <option value="tests.test_EmployeeInfoForm.TestNavigation.driver" />
+          <option value="tests.test_EmployeeInfoForm.TestEmployeeInfoForm.driver" />
+          <option value="tests.test_Navigation.TestLogin.driver" />
+          <option value="tests.test_Login.TestLogin.driver" />
+          <option value="configuration.Read_configuration.read_configuration.read_configuration" />
+          <option value="bs4.element.PageElement.__getitem__" />
+          <option value="str.append" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
